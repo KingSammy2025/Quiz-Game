@@ -142,7 +142,7 @@ function checkAnswer() {
   }
   showQuestion();
 
-  if (currentQuestion == 4) {
+  if (currentQuestion == 9) {
     showResults();
     console.log(quiz);
     console.log(wrong);
